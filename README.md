@@ -1,7 +1,7 @@
 # Raspberry Pi Zero W Wireless Projects
 This is the code repository for [Raspberry Pi Zero W Wireless Projects](https://www.packtpub.com/hardware-and-creative/raspberry-pi-zero-w-wireless-projects?utm_source=github&utm_medium=repository&utm_content=9781788290524), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
-##About the Book
+## About the Book
 The Raspberry Pi has always been the go–to, lightweight ARM-based computer. The recent launch of the Pi Zero W has not disappointed its audience with its $10 release. "W" here stands for Wireless, denoting that the Raspberry Pi is solely focused on the recent trends for wireless tools and the relevant use cases. This is where our book—Raspberry Pi Zero W Wireless Projects—comes into its own.
 
 By the end of this book, you will have developed the skills required to build exciting and complex projects with Raspberry Pi Zero W.

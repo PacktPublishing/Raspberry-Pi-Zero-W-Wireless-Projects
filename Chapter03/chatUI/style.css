@@ -1,0 +1,40 @@
+#header {
+    color: darkblue;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin: 25px auto 15px auto;
+}
+
+#main {
+  width: 700px;
+  height: 500px;
+  margin: 0 auto 0 auto;
+}
+
+form {
+  text-align: center;
+  font-size: 22px;
+  margin-top: 150px;
+}
+
+form #userinput{
+  height: 32px;
+  width: 420px;
+  text-align: left;
+}
+
+form #submitbutton{
+  height: 30px;
+  width: 140px;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+#answer {
+  background-color: #efefe8;
+  height: 200px;
+  width: 600px;
+  padding: 25px;
+  margin: 0px auto 0px auto;
+}

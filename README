@@ -1,4 +1,4 @@
-﻿#Raspberry Pi Zero W Wireless Projects
+# Raspberry Pi Zero W Wireless Projects
 This is the code repository for [Raspberry Pi Zero W Wireless Projects](https://www.packtpub.com/hardware-and-creative/raspberry-pi-zero-w-wireless-projects?utm_source=github&utm_medium=repository&utm_content=9781788290524), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ##About the Book
@@ -6,7 +6,7 @@ The Raspberry Pi has always been the go–to, lightweight ARM-based computer. Th
 
 By the end of this book, you will have developed the skills required to build exciting and complex projects with Raspberry Pi Zero W.
 
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
@@ -33,12 +33,12 @@ h1, h2, h3 {
 ```
 
 
-##Related Products
+## Related Products
 * [Wearable-Tech Projects with the Raspberry Pi Zero ](https://www.packtpub.com/hardware-and-creative/wearable-tech-projects-raspberry-pi-zero?utm_source=github&utm_medium=repository&utm_content=9781786468819)
 
 * [Raspberry Pi Zero Cookbook ](https://www.packtpub.com/hardware-and-creative/raspberry-pi-zero-cookbook?utm_source=github&utm_medium=repository&utm_content=9781786463852)
 
 * [Building Smart Homes with Raspberry Pi Zero ](https://www.packtpub.com/hardware-and-creative/building-smart-homes-raspberry-pi-zero?utm_source=github&utm_medium=repository&utm_content=9781786466952)
 
-###Suggestions and Feedback
+### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.

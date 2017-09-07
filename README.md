@@ -7,7 +7,7 @@ The Raspberry Pi has always been the go–to, lightweight ARM-based computer. Th
 By the end of this book, you will have developed the skills required to build exciting and complex projects with Raspberry Pi Zero W.
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter03.
 
 
 The code will look like the following:
